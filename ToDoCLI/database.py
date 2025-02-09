@@ -5,7 +5,7 @@ from typing import List
 import datetime
 from model import Todo
 
-TASK__FILE = 'tasks..json'
+TASK__FILE = 'tasks.json'
 
 conn = sqlite3.connect('todos.db')
 c = conn.cursor()
