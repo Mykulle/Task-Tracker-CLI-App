@@ -97,6 +97,7 @@ python cli.py reset_db
 📂 Project Structure
 
 Task-Tracker-CLI-App/
+
 │── cli.py               # Main CLI application
 │── database.py          # Database & JSON sync functions
 │── model.py             # Task model
