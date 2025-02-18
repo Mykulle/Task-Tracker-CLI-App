@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import typer
 import json
 import os
