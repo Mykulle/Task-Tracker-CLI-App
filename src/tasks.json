@@ -1,0 +1,38 @@
+[
+    {
+        "task": "Watch Tutorial",
+        "category": "Youtube",
+        "date_added": "February 08, 2025",
+        "last_updated": "February 08, 2025",
+        "date_completed": null,
+        "status": 1,
+        "position": 0
+    },
+    {
+        "task": "Cheerleading",
+        "category": "Sport",
+        "date_added": "February 08, 2025",
+        "last_updated": "February 08, 2025",
+        "date_completed": null,
+        "status": 1,
+        "position": 1
+    },
+    {
+        "task": "Learn DevOps",
+        "category": "Study",
+        "date_added": "February 08, 2025",
+        "last_updated": "February 08, 2025",
+        "date_completed": null,
+        "status": 2,
+        "position": 2
+    },
+    {
+        "task": "SC2006",
+        "category": "Study",
+        "date_added": "February 09, 2025",
+        "last_updated": "February 09, 2025",
+        "date_completed": null,
+        "status": 1,
+        "position": 3
+    }
+]
